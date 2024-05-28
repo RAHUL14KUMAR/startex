@@ -18,7 +18,7 @@
 
 3- `npm start`
 
-## demo video
+## demo postman video
 
 https://github.com/RAHUL14KUMAR/startex/assets/104312822/ecc13089-e3f5-4b1d-863c-9b1eda5c649f
 
