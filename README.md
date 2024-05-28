@@ -13,8 +13,8 @@
 
 1-copy the github repo
 
-2-npm install or npm i 
+2-`npm install` or `npm i`
 
-3- npm start
+3- `npm start`
 
 ## demo video
