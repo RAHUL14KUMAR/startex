@@ -1,6 +1,7 @@
 ## work flow diagram
 
-![startex](https://github.com/RAHUL14KUMAR/startex/assets/104312822/c9316e84-8c56-4156-aef7-2ce4614b7941)
+![startex](https://github.com/RAHUL14KUMAR/startex/assets/104312822/aea20e47-154a-49fd-963f-53e235564af8)
+
 
 ## add env folder and inside it
 
